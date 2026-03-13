@@ -6,31 +6,8 @@
 
 ---
 
-## 📸 Aperçu
 
-### Hero
-![Hero](screenshots/hero.png)
 
-### À Propos
-![À Propos](screenshots/apropos.png)
-
-### Compétences
-![Compétences](screenshots/competences.png)
-
-### Expérience
-![Expérience](screenshots/experience.png)
-
-### Formation
-![Formation](screenshots/formation.png)
-
-### Projets
-![Projets](screenshots/projets.png)
-
-### Langues
-![Langues](screenshots/langues.png)
-
-### Contact
-![Contact](screenshots/contact.png)
 
 ---
 
