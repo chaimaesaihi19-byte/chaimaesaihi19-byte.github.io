@@ -6,7 +6,15 @@
 
 ---
 
-## ✨ Aperçu
+## 📸 Aperçu
+
+| Hero | Compétences | Contact |
+|:---:|:---:|:---:|
+| ![Hero](screenshots/hero.png) | ![Compétences](screenshots/competences.png) | ![Contact](screenshots/contact.png) |
+
+---
+
+## ✨ Description
 
 CV en ligne moderne avec un thème **dark luxury** — fond deep navy, accents violet/indigo et or — conçu pour une étudiante en **Marketing Digital & Expérience Utilisateur** à l'EST Dakhla.
 
@@ -60,8 +68,12 @@ CV en ligne moderne avec un thème **dark luxury** — fond deep navy, accents v
 
 ```
 chaimaesaihi19-byte.github.io/
-├── index.html        # Page unique — tout le CV
-└── README.md         # Documentation du projet
+├── index.html           # Page unique — tout le CV
+├── README.md            # Documentation du projet
+└── screenshots/
+    ├── hero.png         # Screenshot section Hero
+    ├── competences.png  # Screenshot section Compétences
+    └── contact.png      # Screenshot section Contact
 ```
 
 ---
