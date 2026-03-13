@@ -8,10 +8,6 @@
 
 ## 📸 Aperçu
 
-| Hero | Compétences | Contact |
-|:---:|:---:|:---:|
-| ![Hero](screenshots/hero.png) | ![Compétences](screenshots/competences.png) | ![Contact](screenshots/contact.png) |
-
 ---
 
 ## ✨ Description
