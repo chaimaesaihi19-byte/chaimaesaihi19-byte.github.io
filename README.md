@@ -8,9 +8,29 @@
 
 ## 📸 Aperçu
 
-| Hero | Compétences | Contact |
-|:---:|:---:|:---:|
-| ![Hero](screenshots/hero.png) | ![Compétences](screenshots/competences.png) | ![Contact](screenshots/contact.png) |
+### Hero
+
+
+### À Propos
+![À Propos](screenshots/apropos.png)
+
+### Compétences
+![Compétences](screenshots/competences.png)
+
+### Expérience
+![Expérience](screenshots/experience.png)
+
+### Formation
+![Formation](screenshots/formation.png)
+
+### Projets
+![Projets](screenshots/projets.png)
+
+### Langues
+![Langues](screenshots/langues.png)
+
+### Contact
+![Contact](screenshots/contact.png)
 
 ---
 
@@ -71,17 +91,22 @@ chaimaesaihi19-byte.github.io/
 ├── index.html           # Page unique — tout le CV
 ├── README.md            # Documentation du projet
 └── screenshots/
-    ├── hero.png         # Screenshot section Hero
-    ├── competences.png  # Screenshot section Compétences
-    └── contact.png      # Screenshot section Contact
+    ├── hero.png
+    ├── apropos.png
+    ├── competences.png
+    ├── experience.png
+    ├── formation.png
+    ├── projets.png
+    ├── langues.png
+    └── contact.png
 ```
 
 ---
 
 ## 👩‍💻 Auteure
 
-**Chaimae Saihi**
-Étudiante en Marketing Digital & Expérience Utilisateur
+**Chaimae Saihi**  
+Étudiante en Marketing Digital & Expérience Utilisateur  
 École Supérieure de Technologie de Dakhla — 2ème année · 2025/2026
 
 🔗 [LinkedIn](https://linkedin.com/in/chaimae-saihi) · [GitHub](https://github.com/chaimaesaihi19-byte) · [CV en ligne](https://chaimaesaihi19-byte.github.io)
